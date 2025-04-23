@@ -5,7 +5,7 @@ programa
 	{
 
 		inteiro n, n1
-		caracter letra='a', letra1 = '0'
+		caracter letra=' ', letra1 = ' '
 		leia(n)
 
 		se (n > 26 e n < 52)
